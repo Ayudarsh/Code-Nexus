@@ -30,7 +30,7 @@ Git
 Installation Steps
 
 # Clone the repository
-git clone https://github.com/your-username/Code-Nexus.git
+git clone https://github.com/Ayudarsh/Code-Nexus.git
 
 # Navigate to the project directory
 cd Code-Nexus
