@@ -75,6 +75,8 @@ License
 
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
+https://github.com/Ayudarsh/Code-Nexus/blob/main/LICENSE
+
 
 Acknowledgments
 
