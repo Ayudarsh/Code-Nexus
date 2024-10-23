@@ -1,10 +1,10 @@
 # Code-Nexus
 
-#Overview
+Overview
 
 Code-Nexus is a developer-centric toolkit designed to streamline the coding workflow, enhance productivity, and foster seamless collaboration among teams. It integrates effortlessly with popular code editors, provides real-time collaboration capabilities, and is built with customization in mind to suit a variety of development needs. Code-Nexus aims to be an indispensable part of any developer's toolkit.
 
-#Features
+Features
 
 Easy Integration: Integrates smoothly with major code editors such as VS Code, Atom, and Sublime Text.
 
@@ -17,7 +17,7 @@ Open Source: Fully open-source, encouraging contributions from the community to 
 Extensive Documentation: Comprehensive guides and API documentation to get you started quickly.
 
 
-#Installation
+Installation
 
 Follow these steps to set up Code-Nexus on your system:
 
@@ -27,7 +27,7 @@ Node.js (version 14 or higher)
 
 Git
 
-#Installation Steps
+Installation Steps
 
 1. Clone the repository
 git clone https://github.com/Ayudarsh/Code-Nexus.git
@@ -41,7 +41,7 @@ npm install
 4. Start the application
 npm start
 
-#Usage
+Usage
 
 Here's how you can use Code-Nexus to enhance your coding experience:
 
@@ -53,7 +53,7 @@ code-nexus --help
 # Initialize a new project
 code-nexus init my-project
 
-#Contributing
+Contributing
 
 We welcome contributions from the community! To contribute, please follow these steps:
 
