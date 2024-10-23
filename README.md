@@ -73,7 +73,8 @@ We welcome contributions from the community! To contribute, please follow these 
 
 License
 
-This project is licensed under the Apache 2.0License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+
 
 Acknowledgments
 
