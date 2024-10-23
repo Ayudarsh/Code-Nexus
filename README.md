@@ -1,4 +1,5 @@
 # Code-Nexus
+
 Overview
 
 Code-Nexus is a developer-centric toolkit designed to streamline the coding workflow, enhance productivity, and foster seamless collaboration among teams. It integrates effortlessly with popular code editors, provides real-time collaboration capabilities, and is built with customization in mind to suit a variety of development needs. Code-Nexus aims to be an indispensable part of any developer's toolkit.
@@ -72,7 +73,7 @@ We welcome contributions from the community! To contribute, please follow these 
 
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0License - see the LICENSE file for details.
 
 Acknowledgments
 
@@ -80,4 +81,4 @@ Special thanks to the Open Source Community for their invaluable resources and t
 
 Contact
 
-For any questions or suggestions, please contact us at your-ayushaadarsh27@gmail.com.
+For any questions or suggestions, please contact us at ayushaadarsh27@gmail.com.
